@@ -54,9 +54,9 @@ A lightweight Python script to log your daily attendance in Odoo directly from t
 
 ```bash
 
-git clone https://github.com/your-username/odoo-attendance-script.git
+git clone https://github.com/Zeyrox77/odoo-attendance-automator.git
 
-cd odoo-attendance-script
+cd odoo-attendance-automator
 
 ```
 
